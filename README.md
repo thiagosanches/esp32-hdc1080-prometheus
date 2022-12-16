@@ -24,7 +24,7 @@ You have to install the HDC1080 library in order to make the sensor work it prop
 - Plug your ESP32 board into your computer through the USB port.
 - Open the Arduino IDE.
 - Open the [esp32-hdc1080-prometheus.ino](./esp32-hdc1080-prometheus.ino) file.
-- Change the two variables (`ssid` and `password`) according to your Wifi credentials (lines 10 and 11).
+- Change the two variables (`ssid` and `password`) according to your Wifi credentials (lines 11 and 12).
 - Press `CTRL + U` or click on the button that deploys the code to your board.
 - Now you should be good!
 
