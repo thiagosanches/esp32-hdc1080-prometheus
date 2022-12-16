@@ -28,7 +28,7 @@ You have to install the HDC1080 library in order to make the sensor work it prop
 - Press `CTRL + U` or click on the button that deploys the code to your board.
 - Now you should be good!
 
-### Test your deployed coded
+### Test your deployed code
 If everything is fine, you should be able to perform a `curl` request to your board and see its output:
 
 ```bash
@@ -45,3 +45,6 @@ iot_humidity 67.41
 ```
 
 This is the format that Prometheus can read, interpret it and we should be good to plug into Grafana!!!
+
+### Grafana example
+![image](https://user-images.githubusercontent.com/5191469/208089667-a7fe7b96-8093-451d-a3e2-3ae64c9483f1.png)
