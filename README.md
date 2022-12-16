@@ -51,5 +51,5 @@ This is the format that Prometheus can read, interpret it and we should be good 
 
 
 ### References
-http://www.esp32learning.com/code/esp32-and-hdc1080-humidity-and-temperature-sensor.php
-https://github.com/closedcube/ClosedCube_HDC1080_Arduino
+- http://www.esp32learning.com/code/esp32-and-hdc1080-humidity-and-temperature-sensor.php
+- https://github.com/closedcube/ClosedCube_HDC1080_Arduino
