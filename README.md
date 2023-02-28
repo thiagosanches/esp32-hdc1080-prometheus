@@ -49,6 +49,8 @@ This is the format that Prometheus can read, interpret it and we should be good 
 ### Grafana example
 ![image](https://user-images.githubusercontent.com/5191469/208089667-a7fe7b96-8093-451d-a3e2-3ae64c9483f1.png)
 
+### Important
+If you sometimes got `125C` as temperature, please check this [link](https://github.com/closedcube/ClosedCube_HDC1080_Arduino/issues/11).
 
 ### References
 - http://www.esp32learning.com/code/esp32-and-hdc1080-humidity-and-temperature-sensor.php
